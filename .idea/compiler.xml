@@ -19,8 +19,6 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="IntelliDroid_main" target="1.5" />
-      <module name="IntelliDroid_test" target="1.5" />
       <module name="IntelliDroidAppAnalysis_main" target="1.7" />
       <module name="IntelliDroidAppAnalysis_test" target="1.7" />
     </bytecodeTargetLevel>
